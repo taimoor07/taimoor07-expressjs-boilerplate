@@ -1,0 +1,19 @@
+{
+  "name": "expressjs-boilerplate",
+  "version": "1.0.0",
+  "description": "It's expressjs boilerplate app. Node 16.14.2 is used.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taimoor07/taimoor07-expressjs-boilerplate.git"
+  },
+  "author": "taimoor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taimoor07/taimoor07-expressjs-boilerplate/issues"
+  },
+  "homepage": "https://github.com/taimoor07/taimoor07-expressjs-boilerplate#readme"
+}
